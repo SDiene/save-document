@@ -1,0 +1,16 @@
+.labelText{
+  color: black;
+}
+.colonne{
+  width: 15%;
+}
+.menutour{
+  background-color: #2f3542;
+  padding: 3%;
+  text-align: center;
+}
+.text{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 17px;
+  text-transform: uppercase;
+}
